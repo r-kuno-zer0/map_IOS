@@ -2,8 +2,7 @@
 //  ViewController.swift
 //  MyMap
 //
-//  Created by 久野　亮 on 2017/09/06.
-//  Copyright © 2017年 久野　亮. All rights reserved.
+//  
 //
 
 import UIKit
